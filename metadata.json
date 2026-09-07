@@ -1,0 +1,6 @@
+{
+  "name": "Yasumi Japan - Đệm Massage Toàn Thân Đa Năng",
+  "description": "Landing page Đệm Massage Toàn Thân Đa Năng Yasumi Japan với hệ thống chốt đơn tự động, đồng hồ đếm ngược, tích hợp Google Sheets, Meta Pixel, Google Analytics, GTM và Upsell popup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
